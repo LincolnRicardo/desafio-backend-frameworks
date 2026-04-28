@@ -1,4 +1,4 @@
-package com.lincolnricardo.java_springboot.repositorys;
+package com.lincolnricardo.Javaspringboot.repositories;
 
 
 
@@ -8,7 +8,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 
-import com.lincolnricardo.java_springboot.models.Usuario;
+import com.lincolnricardo.Javaspringboot.models.Usuario;
 
 
 

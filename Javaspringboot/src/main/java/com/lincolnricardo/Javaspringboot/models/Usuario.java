@@ -1,4 +1,4 @@
-package com.lincolnricardo.java_springboot.models;
+package com.lincolnricardo.Javaspringboot.models;
 
 import java.util.UUID;
 

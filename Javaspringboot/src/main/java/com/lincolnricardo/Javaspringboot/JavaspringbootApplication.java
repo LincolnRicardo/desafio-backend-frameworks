@@ -1,4 +1,4 @@
-package com.LincolnRicardo.Javaspringboot;
+package com.lincolnricardo.Javaspringboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class JavaspringbootApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(JavaspringbootApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(JavaspringbootApplication.class, args);
+    }
 
 }

@@ -1,4 +1,4 @@
-package com.lincolnricardo.java_springboot.dtos;
+package com.lincolnricardo.Javaspringboot.dtos;
 
 
 

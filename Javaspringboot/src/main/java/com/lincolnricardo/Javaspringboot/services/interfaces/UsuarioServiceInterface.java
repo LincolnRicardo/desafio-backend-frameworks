@@ -1,10 +1,10 @@
-package com.lincolnricardo.java_springboot.services.interfaces;
+package com.lincolnricardo.Javaspringboot.services.interfaces;
 
 
 
 import java.util.List;
 
-import com.lincolnricardo.java_springboot.dtos.UsuarioDto;
+import com.lincolnricardo.Javaspringboot.dtos.UsuarioDto;
 
 
 
